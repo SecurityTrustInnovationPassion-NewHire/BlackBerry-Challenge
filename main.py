@@ -1,5 +1,5 @@
-import os
 import math
+import os
 
 
 def fun1(a, b) -> int:
